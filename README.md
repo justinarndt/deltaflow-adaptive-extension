@@ -171,8 +171,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 9. Contact
 
 **Author:** Justin Arndt  
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**Project Link:** [https://github.com/yourrepo/deltaflow-adaptive](https://github.com/yourrepo/deltaflow-adaptive)
+**Email:** [justinarndtai@gmail.com](mailto:justinarndtai@gmail.com)  
+**Project Link:** [https://github.com/justinarndt/deltaflow-adaptive-extension](https://github.com/justinarndt/deltaflow-adaptive-extension)
 
 ---
 
